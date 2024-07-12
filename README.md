@@ -2,6 +2,8 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+https://github.com/user-attachments/assets/bf48768b-8c0c-4a31-a41d-f7bcdfa86ea0
+
 ## Get started
 
 1. Install dependencies
@@ -25,6 +27,6 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-https://github.com/user-attachments/assets/bf48768b-8c0c-4a31-a41d-f7bcdfa86ea0
+
 
 
